@@ -2,7 +2,8 @@
   "name": "GHLK Therapy",
   "short_name": "GHLK Therapy",
   "description": "GHLK Health Care Center - Free Thermal Therapy Management System",
-  "start_url": "/",
+  "start_url": "/ghlk_rampur/",
+  "scope":"/ghlk_rampur/",
   "display": "standalone",
   "background_color": "#f0fdfa",
   "theme_color": "#0f766e",
@@ -51,3 +52,4 @@
   ]
 
 }
+
